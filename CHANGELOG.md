@@ -30,6 +30,8 @@
   - Fix to avoid schema download if not configured #2530.
 
 #### Experts
+- `intelmq.bots.experts.securitytxt`:
+  - Added new bot (PR#2538 by Frank Westers and Sebastian Wagner)
 
 #### Outputs
 - `intelmq.bots.outputs.cif3.output`:
